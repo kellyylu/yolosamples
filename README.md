@@ -1,6 +1,6 @@
 # yolosamples
 
-run detect.py with video in inference/images  
+run detect.py with sample video in inference/images  
 
-in detect.py from line 123 to 158 is cropping individual frames and saving them in runs/detect/exp#/cropped
+in detect.py line 123 to 158 is cropping individual frames and saving them in runs/detect/exp#/cropped
 
